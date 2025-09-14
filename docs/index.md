@@ -23,7 +23,7 @@ title: bilit
 ---
 
 ## 📄 利用規約
-[利用規約はこちら](terms_of_service.html)  
+[利用規約はこちら]({% link terms_of_service.md %})
 
 ---
 
