@@ -23,12 +23,12 @@ title: bilit
 ---
 
 ## 📄 利用規約
-[利用規約はこちら]({% link terms_of_service.md %})
+[利用規約はこちら]({{ "terms_of_service.html" | relative_url }})
 
 ---
 
 ## 🔒 プライバシーポリシー
-[プライバシーポリシーはこちら]({% link privacy_policy.md %})
+[プライバシーポリシーはこちら]({{ "privacy_policy.html" | relative_url }})
 
 ---
 
