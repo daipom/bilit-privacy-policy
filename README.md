@@ -1,8 +1,8 @@
-# Bilit Privacy Policy Website
+# Bilit Support Page
 
-This repository is for the bilit privacy policy website.
+This repository is for the bilit support page.
 
-* https://daipom.github.io/bilit-privacy-policy/
+* https://daipom.github.io/bilit-support-page/
 
 ## Development
 
